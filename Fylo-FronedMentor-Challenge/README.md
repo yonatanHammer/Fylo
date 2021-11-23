@@ -25,7 +25,7 @@
 
 - [ ] Clone this repository.
 - [ ] Checkout to the starting-files branch
-- [ ] Try to mimic the site listed bellow without using flew-box or grid layouts ( you will have to build float based grid ).
+- [ ] Try to mimic the site listed bellow.
 - [ ] (optional) mimic the mobile design as well for mobile users.
 
 ---
